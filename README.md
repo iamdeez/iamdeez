@@ -142,7 +142,7 @@ Next.js 16 멀티테넌트 SaaS. 흩어진 문의·진행·수정·납품을 하
 </td>
 <td width="50%" valign="top">
 
-#### [FLIT](https://flit-renewal-storefront.web.app) ↗
+#### [FLIT](https://github.com/iamdeez/flit) ↗
 **화훼 커머스 개발 · 2023 · 2026 Renewal**
 
 Admin·Seller·Customer 3개 역할 앱과 신뢰 백엔드를 하나의 계약(contract)으로 연결한 모노레포 리뉴얼. 원자적 거래, custom claims 기반 권한 판단, 재실행 가능한 이관, Emulator 기반 CI를 구성했습니다.
