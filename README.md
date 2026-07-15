@@ -10,6 +10,10 @@
 [![Email](https://img.shields.io/badge/-pkrystal.dev%40gmail.com-1c64f2?style=flat-square&logo=gmail&logoColor=white)](mailto:pkrystal.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/-iamdeez-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/iamdeez)
 
+<br>
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/iamdeez/svg?rank=percent)](https://tokscale.ai/u/iamdeez)
+
 </div>
 
 <br>
